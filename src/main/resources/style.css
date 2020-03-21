@@ -1,0 +1,24 @@
+.anchorpane {
+    -fx-background-color: #333333;
+    -fx-background-radius: 10px;
+}
+
+.btm-pane {
+    -fx-background-color: #3f3f3f;
+    -fx-background-radius: 10px;
+}
+.toggle-button {
+    /*-fx-graphic: url('http://openweathermap.org/img/w/10d.png');*/
+    /*-fx-background-image: url('http://openweathermap.org/img/w/10d.png');*/
+    /*-fx-background-size: 100px 100px;*/
+    /*-fx-background-repeat: no-repeat;*/
+    /*-fx-background-position: center;*/
+}
+
+.center-text {
+    -fx-text-alignment: center;
+}
+
+.date-pane {
+    -fx-background-color: #009bff;
+}
